@@ -34,8 +34,10 @@ class ContentIterator extends Media.ContentIterator {
                                    Media.PLAYBACK_CONTROL_REPEAT,
                                    ];
 
+        profile.playSpeedMultipliers = [Media.PLAYBACK_SPEED_FAST];
         profile.attemptSkipAfterThumbsDown = true;
-        profile.requirePlaybackNotification = false;
+        profile.supportsPlaylistPreview = true;
+        profile.requirePlaybackNotification = true;
         profile.playbackNotificationThreshold = 30;
         profile.skipPreviousThreshold = 4;
 
@@ -69,11 +71,20 @@ class ContentIterator extends Media.ContentIterator {
     // Gets the current song to play
     function get() {
         var obj = null;
+        var obj1 = null;
+        var content_ref = null;
         if ((mSongIndex >= 0) && (mSongIndex < mPlaylist.size())) {
-            obj = Media.getCachedContentObj(new Media.ContentRef(mPlaylist[mSongIndex], Media.CONTENT_TYPE_AUDIO));
+            content_ref = new Media.ContentRef(mPlaylist[mSongIndex], Media.CONTENT_TYPE_AUDIO);
+			obj1 = Media.getCachedContentObj(content_ref);
+    		var playbackpos = Toybox.Application.Storage.getValue("playbackpos");
+        	if (playbackpos == null) {
+        		playbackpos = 0;
+        	}
+        	obj = new Media.ActiveContent(content_ref, obj1.getMetadata(), playbackpos);
+        	return obj;
         }
-
-        return obj;
+        return null;
+        
     }
 
     // Returns the next song, or null if there is no next song, without decrementing the current song index.

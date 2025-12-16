@@ -58,6 +58,8 @@ class ConfigureSyncMenuDelegate extends WatchUi.Menu2InputDelegate {
         }
 
         // Same as above, but for the delete list
+        System.println("hi");
+        System.println(syncInfo);
         app.setProperty(Properties.SYNC_LIST, syncInfo);
 
         var deleteInfo = app.getProperty(Properties.DELETE_LIST);

@@ -34,7 +34,8 @@ class ConfigureSyncView extends WatchUi.View {
         } else if (mMenuShown) {
             WatchUi.popView(WatchUi.SLIDE_IMMEDIATE);
         } else {
-            token = Application.getApp().getProperty(Properties.AUTHENTICATION_TOKEN);
+            var token = Application.getApp().getProperty(Properties.AUTHENTICATION_TOKEN);
+            System.println(Constants.PROVIDER_URL);
             Communications.makeWebRequest(Constants.PROVIDER_URL, {"mode" => "listing", "token" => token}, {}, method(:onFileListing));
             mSongs = {};
         }
@@ -53,13 +54,15 @@ class ConfigureSyncView extends WatchUi.View {
     // Store the fetched songs
     function onFileListing(responseCode, data) {
         if (responseCode == 200) {
+        	System.println(data);
             mSongs = data;
             pushSyncMenu();
         } else {
+        	System.println("error");
             if (data != null) {
-                WatchUi.pushView(new ErrorView(data["errorMessage"]), null, WatchUi.SLIDE_IMMEDIATE);
+                WatchUi.pushView(new ErrorView("There was an error"), null, WatchUi.SLIDE_IMMEDIATE);
             } else {
-                WatchUi.pushView(new ErrorView("Unknown Error"), null, WatchUi.SLIDE_IMMEDIATE);
+                WatchUi.pushView(new ErrorView("Unknown Error" + responseCode), null, WatchUi.SLIDE_IMMEDIATE);
             }
         }
         WatchUi.requestUpdate();

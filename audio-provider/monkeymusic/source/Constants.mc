@@ -33,6 +33,6 @@ module SongInfo {
 
 // General constants used in the app
 module Constants {
-    const PROVIDER_URL = "http://localhost:8000/cgi-bin/media.py";
+    const PROVIDER_URL = "https://allanwblog-heroku-18.herokuapp.com/foo";
     const REDIRECT_URL = "http://localhost:8000/cgi-bin/callback.py";
 }

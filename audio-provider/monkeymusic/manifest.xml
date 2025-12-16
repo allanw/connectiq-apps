@@ -2,6 +2,7 @@
     <iq:application entry="MonkeyMusicApp" id="6f021fc77fea453a8e67546e2514a344" launcherIcon="@Drawables.logo" minSdkVersion="1.2.0" name="@Strings.AppName" type="audio-content-provider-app">
         <iq:products>
             <iq:product id="fr645m"/>
+            <iq:product id="fr945"/>
         </iq:products>
         <iq:permissions>
             <iq:uses-permission id="Communications"/>

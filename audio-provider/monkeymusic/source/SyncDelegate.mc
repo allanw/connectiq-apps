@@ -97,8 +97,9 @@ class SyncDelegate extends Media.SyncDelegate {
             var options = {:method => Communications.HTTP_REQUEST_METHOD_GET,
                            :responseType => Communications.HTTP_RESPONSE_CONTENT_TYPE_AUDIO,
                            :mediaEncoding => typeStringToEncoding(songInfo[SongInfo.TYPE])};
-
+ 
             var delegate = new RequestDelegate(method(:onSongDownloaded), context);
+            System.println(mSyncList[ids[0]][SongInfo.URL]);
             delegate.makeWebRequest(mSyncList[ids[0]][SongInfo.URL], null, options);
         }
     }
@@ -143,7 +144,7 @@ class SyncDelegate extends Media.SyncDelegate {
             // Get the next song
             syncNextSong();
         } else {
-            var errorString = "Sync failed with error code: " + responseCode;
+            var errorString = "error " + responseCode;
             Media.notifySyncComplete(errorString);
         }
     }

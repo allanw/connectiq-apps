@@ -26,6 +26,7 @@ class ConfigurePlaybackMenu extends WatchUi.CheckboxMenu {
             var refId = refIds[idx];
             var ref = new Media.ContentRef(refId, Media.CONTENT_TYPE_AUDIO);
             var songName = Media.getCachedContentObj(ref).getMetadata().title;
+            //var songName = new Media.getCachedContentObj(new Media.ContentRef(refId, Media.CONTENT_TYPE_AUDIO)).title;
             var item = new WatchUi.CheckboxMenuItem(songName, null, refId, currentPlaylist.hasKey(refId), {});
             addItem(item);
         }
