@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="3" lineNum="8" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="3" lineNum="9" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="3" lineNum="10" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="3" lineNum="11" pc="268435488" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="4" lineNum="14" pc="268435509" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="4" lineNum="15" pc="268435513" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="4" lineNum="16" pc="268435550" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="5" lineNum="19" pc="268435591" symbol="onShow"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="6" lineNum="22" pc="268435596" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="6" lineNum="24" pc="268435600" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/RequestView.mc" id="7" lineNum="30" pc="268435621" symbol="onHide"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyErrorView.mc" id="9" lineNum="6" pc="268435626" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyErrorView.mc" id="9" lineNum="7" pc="268435630" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyErrorView.mc" id="10" lineNum="10" pc="268435649" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyErrorView.mc" id="10" lineNum="11" pc="268435653" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyErrorView.mc" id="10" lineNum="12" pc="268435690" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyErrorView.mc" id="10" lineNum="13" pc="268435714" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="12" lineNum="8" pc="268435744" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="12" lineNum="9" pc="268435748" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="13" lineNum="13" pc="268435767" symbol="onStart"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="13" lineNum="14" pc="268435771" symbol="onStart"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="14" lineNum="18" pc="268435784" symbol="onStop"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="15" lineNum="22" pc="268435789" symbol="getInitialView"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="15" lineNum="23" pc="268435793" symbol="getInitialView"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="16" lineNum="26" pc="268435836" symbol="onReceive"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="16" lineNum="27" pc="268435840" symbol="onReceive"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="17" lineNum="30" pc="268435903" symbol="makeRequest"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="17" lineNum="31" pc="268435907" symbol="makeRequest"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="17" lineNum="32" pc="268435917" symbol="makeRequest"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="17" lineNum="33" pc="268435920" symbol="makeRequest"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="17" lineNum="37" pc="268435972" symbol="makeRequest"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectApp.mc" id="17" lineNum="39" pc="268435990" symbol="makeRequest"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyGcmView.mc" id="19" lineNum="4" pc="268436031" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyGcmView.mc" id="19" lineNum="5" pc="268436035" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyGcmView.mc" id="20" lineNum="8" pc="268436054" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyGcmView.mc" id="20" lineNum="9" pc="268436058" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyView.mc" id="22" lineNum="8" pc="268436096" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyView.mc" id="22" lineNum="9" pc="268436100" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyView.mc" id="23" lineNum="13" pc="268436119" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyView.mc" id="23" lineNum="14" pc="268436123" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyView.mc" id="24" lineNum="17" pc="268436161" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyView.mc" id="24" lineNum="18" pc="268436165" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/MyView.mc" id="25" lineNum="21" pc="268436186" symbol="onHide"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="27" lineNum="8" pc="268436191" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="27" lineNum="9" pc="268436195" symbol="initialize"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="28" lineNum="13" pc="268436214" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="28" lineNum="14" pc="268436218" symbol="onLayout"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="29" lineNum="20" pc="268436256" symbol="onShow"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="30" lineNum="24" pc="268436261" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="30" lineNum="26" pc="268436265" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="30" lineNum="27" pc="268436282" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="30" lineNum="28" pc="268436356" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="30" lineNum="29" pc="268436380" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="30" lineNum="32" pc="268436394" symbol="onUpdate"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="31" lineNum="38" pc="268436415" symbol="onHide"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="32" lineNum="42" pc="268436420" symbol="onExitSleep"/>
+<entry filename="/Users/allanwhatmough/Code/eclipse-workspace/testproj/source/NewProjectView.mc" id="33" lineNum="46" pc="268436425" symbol="onEnterSleep"/>
+<entry filename="Rez" id="37" lineNum="12" pc="268436430" symbol="initialize"/>
+<entry filename="Rez" id="37" lineNum="13" pc="268436434" symbol="initialize"/>
+<entry filename="Rez" id="38" lineNum="16" pc="268436459" symbol="draw"/>
+<entry filename="Rez" id="38" lineNum="17" pc="268436463" symbol="draw"/>
+<entry filename="Rez" id="38" lineNum="19" pc="268436476" symbol="draw"/>
+<entry filename="Rez" id="38" lineNum="20" pc="268436505" symbol="draw"/>
+<entry filename="Rez" id="38" lineNum="21" pc="268436552" symbol="draw"/>
+<entry filename="Rez" id="38" lineNum="23" pc="268436581" symbol="draw"/>
+<entry filename="Rez" id="38" lineNum="24" pc="268436610" symbol="draw"/>
+<entry filename="Rez" id="42" lineNum="41" pc="268436658" symbol="WatchFace"/>
+<entry filename="Rez" id="42" lineNum="44" pc="268436670" symbol="WatchFace"/>
+<entry filename="Rez" id="42" lineNum="46" pc="268436851" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="55" pc="268436869" symbol="Summary"/>
+<entry filename="Rez" id="43" lineNum="58" pc="268436881" symbol="Summary"/>
+<entry filename="Rez" id="43" lineNum="59" pc="268436921" symbol="Summary"/>
+<entry filename="Rez" id="43" lineNum="60" pc="268436934" symbol="Summary"/>
+<entry filename="Rez" id="43" lineNum="63" pc="268436950" symbol="Summary"/>
+<entry filename="Rez" id="44" lineNum="72" pc="268436968" symbol="ErrorLayout"/>
+<entry filename="Rez" id="44" lineNum="75" pc="268436980" symbol="ErrorLayout"/>
+<entry filename="Rez" id="44" lineNum="77" pc="268437154" symbol="ErrorLayout"/>
+<entry filename="Rez" id="45" lineNum="86" pc="268437172" symbol="LoginLayout"/>
+<entry filename="Rez" id="45" lineNum="88" pc="268437184" symbol="LoginLayout"/>
+<entry filename="Rez" id="45" lineNum="90" pc="268437197" symbol="LoginLayout"/>
+<entry filename="Rez" id="45" lineNum="91" pc="268437309" symbol="LoginLayout"/>
+<entry filename="Rez" id="45" lineNum="92" pc="268437346" symbol="LoginLayout"/>
+<entry filename="Rez" id="45" lineNum="93" pc="268437481" symbol="LoginLayout"/>
+<entry filename="Rez" id="45" lineNum="95" pc="268437616" symbol="LoginLayout"/>
+<entry filename="Rez" id="46" lineNum="104" pc="268437654" symbol="Gcm"/>
+<entry filename="Rez" id="46" lineNum="106" pc="268437666" symbol="Gcm"/>
+<entry filename="Rez" id="46" lineNum="108" pc="268437679" symbol="Gcm"/>
+<entry filename="Rez" id="46" lineNum="109" pc="268437791" symbol="Gcm"/>
+<entry filename="Rez" id="46" lineNum="110" pc="268437828" symbol="Gcm"/>
+<entry filename="Rez" id="46" lineNum="111" pc="268437963" symbol="Gcm"/>
+<entry filename="Rez" id="46" lineNum="112" pc="268438098" symbol="Gcm"/>
+<entry filename="Rez" id="46" lineNum="114" pc="268438233" symbol="Gcm"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="10" symbol="ClientSecret"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="13" object="true" symbol="ErrorView"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="27" method="true" symbol="LoginLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="24" object="true" symbol="header"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="17" object="true" symbol="MyView"/>
+<entry field="true" id="11" symbol="ServerToken"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="33" symbol="AppName"/>
+<entry id="35" method="true" symbol="makeRequest"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry id="15" object="true" symbol="NewProjectApp"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry field="true" id="32" symbol="connectString3"/>
+<entry field="true" id="30" symbol="connectString2"/>
+<entry field="true" id="29" symbol="connectString1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="25" method="true" symbol="Summary"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="16" object="true" symbol="ConnectToGcmView"/>
+<entry field="true" id="14" symbol="URL"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="22" symbol="gcm"/>
+<entry id="28" method="true" symbol="Gcm"/>
+<entry field="true" id="31" symbol="goToPhone"/>
+<entry id="26" method="true" symbol="ErrorLayout"/>
+<entry id="20" module="true" symbol="Layouts"/>
+<entry id="12" object="true" symbol="RequestView"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="19" symbol="_message"/>
+<entry id="21" module="true" symbol="Menus"/>
+<entry id="18" object="true" symbol="NewProjectView"/>
+<entry id="34" method="true" symbol="onReceive"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="9" symbol="ClientId"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435509" name="message" stackId="1" startPc="268435456"/>
+<entry endPc="268435591" name="dc" stackId="1" startPc="268435509"/>
+<entry endPc="268435621" name="dc" stackId="1" startPc="268435596"/>
+<entry endPc="268435649" name="message" stackId="1" startPc="268435626"/>
+<entry endPc="268435743" name="view" stackId="2" startPc="268435653"/>
+<entry endPc="268435744" name="dc" stackId="1" startPc="268435649"/>
+<entry endPc="268435784" name="state" stackId="1" startPc="268435767"/>
+<entry endPc="268435789" name="state" stackId="1" startPc="268435784"/>
+<entry endPc="268435903" name="responseCode" stackId="1" startPc="268435836"/>
+<entry endPc="268435903" name="data" stackId="2" startPc="268435836"/>
+<entry endPc="268436030" name="options" stackId="3" startPc="268435907"/>
+<entry endPc="268436030" name="url" stackId="1" startPc="268435907"/>
+<entry endPc="268436030" name="responseCallback" stackId="4" startPc="268435907"/>
+<entry endPc="268436030" name="params" stackId="2" startPc="268435907"/>
+<entry endPc="268436096" name="dc" stackId="1" startPc="268436054"/>
+<entry endPc="268436161" name="dc" stackId="1" startPc="268436119"/>
+<entry endPc="268436186" name="dc" stackId="1" startPc="268436161"/>
+<entry endPc="268436256" name="dc" stackId="1" startPc="268436214"/>
+<entry endPc="268436414" name="view" stackId="4" startPc="268436265"/>
+<entry endPc="268436414" name="timeString" stackId="3" startPc="268436265"/>
+<entry endPc="268436414" name="clockTime" stackId="2" startPc="268436265"/>
+<entry endPc="268436415" name="dc" stackId="1" startPc="268436261"/>
+<entry endPc="268436657" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268436463"/>
+<entry endPc="268436658" name="dc" stackId="1" startPc="268436459"/>
+<entry endPc="268436868" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436670"/>
+<entry endPc="268436869" name="dc" stackId="1" startPc="268436658"/>
+<entry endPc="268436967" name="rez_cmp_local_custom_drawable_header" stackId="2" startPc="268436881"/>
+<entry endPc="268436968" name="dc" stackId="1" startPc="268436869"/>
+<entry endPc="268437171" name="rez_cmp_local_text_Message" stackId="2" startPc="268436980"/>
+<entry endPc="268437172" name="dc" stackId="1" startPc="268436968"/>
+<entry endPc="268437653" name="rez_cmp_local_text_1226821488" stackId="4" startPc="268437184"/>
+<entry endPc="268437653" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268437184"/>
+<entry endPc="268437653" name="rez_cmp_local_text_6295432117" stackId="5" startPc="268437184"/>
+<entry endPc="268437653" name="rez_cmp_local_bitmap_gcm" stackId="3" startPc="268437184"/>
+<entry endPc="268437654" name="dc" stackId="1" startPc="268437172"/>
+<entry endPc="268438280" name="rez_cmp_local_text_5618794411" stackId="4" startPc="268437666"/>
+<entry endPc="268438280" name="rez_cmp_local_text_4933437141" stackId="6" startPc="268437666"/>
+<entry endPc="268438280" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268437666"/>
+<entry endPc="268438280" name="rez_cmp_local_text_2054788543" stackId="5" startPc="268437666"/>
+<entry endPc="268438280" name="rez_cmp_local_bitmap_gcm" stackId="3" startPc="268437666"/>
+<entry endPc="268438281" name="dc" stackId="1" startPc="268437654"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="214" parentId="globals" symbolId="MyView" type="class"/>
+<dataEntry offset="285" parentId="globals" symbolId="RequestView" type="class"/>
+<dataEntry offset="372" parentId="globals" symbolId="ConnectToGcmView" type="class"/>
+<dataEntry offset="427" parentId="globals" symbolId="ErrorView" type="class"/>
+<dataEntry offset="490" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="569" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="624" parentId="Drawables" symbolId="header" type="class"/>
+<dataEntry offset="679" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="710" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="741" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="812" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="843" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="914" parentId="globals" symbolId="NewProjectView" type="class"/>
+<dataEntry offset="1009" parentId="globals" symbolId="NewProjectApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="RequestView">
+<param id="message"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="RequestView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="RequestView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="RequestView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="RequestView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ErrorView">
+<param id="message"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="ErrorView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NewProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="NewProjectApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="NewProjectApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="NewProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceive" parent="NewProjectApp">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeRequest" parent="NewProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ConnectToGcmView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="ConnectToGcmView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MyView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MyView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MyView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MyView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="NewProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="NewProjectView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="NewProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="NewProjectView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="NewProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="NewProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="NewProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="header">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="header">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Summary" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ErrorLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="LoginLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Gcm" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
