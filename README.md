@@ -1,3 +1,7 @@
+# N.B. Note from me (allanw) There's some code for a Strava widget somewhere in this repo.
+
+
+
 # /connectiq-apps
 _A collection of Connect IQ apps and libraries_
 
